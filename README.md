@@ -54,9 +54,13 @@ Click the ☀️ / 🌙 button in the **Header** to toggle dark mode.
 ## Screenshots
 ![Image 1](https://github.com/ayeshakhalil0/todo-list/blob/main/src/assets/1.png)
 
-![Image 2](https://github.com/ayeshakhalil0/todo-list/blob/main/src/assets/2.png) 
+![Image 2](https://github.com/ayeshakhalil0/todo-list/blob/main/src/assets/2.png)
 
 ![Image 3](https://github.com/ayeshakhalil0/todo-list/blob/main/src/assets/3.png)
+
+## Live Demo
+Check out the deployed version of the app here:
+[Todo App Live](https://todo-list-livid-pi.vercel.app/)
 
 🚀 Happy Coding! 🎉
 
