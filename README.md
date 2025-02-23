@@ -27,8 +27,8 @@ Ensure you have **Node.js** and **npm** installed.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/ayeshakhalil0/todo-list.git
+cd todo-list
 ```
 
 ### Install Dependencies
@@ -52,7 +52,11 @@ npm run dev
 Click the ☀️ / 🌙 button in the **Header** to toggle dark mode.
 
 ## Screenshots
-(Add your images here)
+![Image 1](https://github.com/ayeshakhalil0/todo-list/blob/main/src/assets/1.png)
+
+![Image 2](https://github.com/ayeshakhalil0/todo-list/blob/main/src/assets/2.png) 
+
+![Image 3](https://github.com/ayeshakhalil0/todo-list/blob/main/src/assets/3.png)
 
 🚀 Happy Coding! 🎉
 
